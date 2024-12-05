@@ -173,3 +173,6 @@ browser/
 *.md
 *.html
 **/pabot_results
+
+# vscode
+.vscode
